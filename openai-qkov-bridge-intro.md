@@ -2,7 +2,7 @@
 
 A native integration layer enabling OpenAI's language models to leverage the full power of the Caspian Interpretability Framework. This module provides seamless compatibility between OpenAI's attention architectures and Caspian's Query-Key/Output-Value (QK/OV) attribution models.
 
-## Overview
+# Overview
 
 The `openai_qkov_bridge` serves as the foundational infrastructure connecting OpenAI's state-of-the-art language models (GPT-4, GPT-4-Turbo, GPT-3.5-Turbo) with Caspian's advanced interpretability tools. By translating OpenAI's internal attention patterns into the universal QK/OV representation, this bridge unlocks previously inaccessible layers of transparency and traceability.
 
