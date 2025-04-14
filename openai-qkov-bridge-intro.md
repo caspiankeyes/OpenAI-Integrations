@@ -1,4 +1,4 @@
-# `openai_qkov_bridge.md`
+# `openai_qkov_bridge_intro.md`
 
 A native integration layer enabling OpenAI's language models to leverage the full power of the Caspian Interpretability Framework. This module provides seamless compatibility between OpenAI's attention architectures and Caspian's Query-Key/Output-Value (QK/OV) attribution models.
 
