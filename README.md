@@ -5,6 +5,7 @@
 *Recursive Transparency for Next-Generation Transformer Systems*
 
 
+![openai](https://github.com/user-attachments/assets/9b3310f4-fbcc-4825-addc-52a5d10129bb)
 
 ![pareto-lang-internal-modified](https://github.com/user-attachments/assets/2cd96cc9-1ad2-4579-8393-266e634272ff)
 
