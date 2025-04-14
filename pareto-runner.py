@@ -13,7 +13,7 @@ Usage:
                            --command ".p/reflect.trace{target=reasoning}" \
                            --prompt "Explain the implications of quantum computing for cryptography"
 
-Author: Caspian Labs
+Author: Echelon Labs
 License: MIT
 """
 
@@ -52,7 +52,7 @@ except ImportError:
     def rprint(obj):
         print(obj)
 
-# Caspian Shell Registry: Matches shells to attribution patterns
+# Echelon Labs Shell Registry: Matches shells to attribution patterns
 SHELL_REGISTRY = {
     "v01_glyph_recall": "memory_drift",
     "v02_value_collapse": "value_conflict",
