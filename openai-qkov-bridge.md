@@ -6,7 +6,7 @@
 
 The OpenAI-QKOV Bridge implements the Query-Key/Output-Value (QK/OV) attribution framework for OpenAI's transformer-based models. This architectural bridge enables precise causal tracing of information flow through model layers, transforming black-box completions into transparent, interpretable processes.
 
-By mapping OpenAI's attention mechanisms to the Caspian interpretability framework, this module provides production-ready attribution tracing for GPT-4, GPT-4-Turbo, and GPT-3.5-Turbo.
+By mapping OpenAI's attention mechanisms to the Echelon Labs interpretability framework, this module provides production-ready attribution tracing for GPT-4, GPT-4-Turbo, and GPT-3.5-Turbo.
 
 ## Theoretical Foundations
 
@@ -74,7 +74,7 @@ ov_projection = response.attribution.ov_paths
 
 ### Layer Adaptation
 
-The bridge adapts to OpenAI's specific layer architecture while maintaining compatibility with the Caspian QK/OV framework:
+The bridge adapts to OpenAI's specific layer architecture while maintaining compatibility with the Echelon Labs QK/OV framework:
 
 ```python
 # Layer-specific attribution mapping
@@ -443,7 +443,7 @@ compliance_doc = enterprise.export_compliance_documentation(
 
 ## Conclusion
 
-The OpenAI-QKOV Bridge provides a comprehensive framework for implementing Caspian's QK/OV attribution architecture with OpenAI models. By mapping OpenAI's transformer mechanisms to formal attribution structures, this bridge enables unprecedented transparency, interpretability, and alignment verification.
+The OpenAI-QKOV Bridge provides a comprehensive framework for implementing Echelon Labs's QK/OV attribution architecture with OpenAI models. By mapping OpenAI's transformer mechanisms to formal attribution structures, this bridge enables unprecedented transparency, interpretability, and alignment verification.
 
 As language models continue to advance in capability, the parallel development of interpretability infrastructure becomes increasingly essential. The OpenAI-QKOV Bridge represents a significant step toward transparent AI systems that can be understood, verified, and trusted.
 
@@ -457,6 +457,6 @@ As language models continue to advance in capability, the parallel development o
 ---
 
 <p align="center">
-<strong>Caspian Interpretability Framework</strong><br>
+<strong>Echelon Labs Interpretability Framework</strong><br>
 Transformer Transparency Infrastructure
 </p>
