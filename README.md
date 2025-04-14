@@ -2,7 +2,7 @@
 
 # OpenAI-Integrations: Advanced Interpretability Framework
 
-*Reiterative Transparency for Next-Generation Transformer Systems*
+*Recursive Transparency for Next-Generation Transformer Systems*
 
 
 
