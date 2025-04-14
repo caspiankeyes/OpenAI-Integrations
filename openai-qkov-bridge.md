@@ -1,7 +1,7 @@
 # OpenAI-QKOV Bridge: Attribution Mapping for Transformer Systems
 
 *Implementing Query-Key/Output-Value Attribution Mapping for OpenAI Models*
-
+![op-modified-modified](https://github.com/user-attachments/assets/80dfdf10-006d-4fd5-897b-41aba3eeb523)
 ## Introduction
 
 The OpenAI-QKOV Bridge implements the Query-Key/Output-Value (QK/OV) attribution framework for OpenAI's transformer-based models. This architectural bridge enables precise causal tracing of information flow through model layers, transforming black-box completions into transparent, interpretable processes.
