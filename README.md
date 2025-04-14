@@ -16,7 +16,7 @@
 
 ## Overview
 
-OpenAI-Integrations provides an enterprise-grade interpretability framework that extends OpenAI's large language models with recursive attribution mapping, symbolic failure tracing, and context-aware transparency tools. This repository implements the Caspian Interpretability Framework with native support for GPT-4, GPT-4-Turbo, and GPT-3.5-Turbo models.
+OpenAI-Integrations provides an enterprise-grade interpretability framework that extends OpenAI's large language models with recursive attribution mapping, symbolic failure tracing, and context-aware transparency tools. This repository implements the Caspian Interpretability Framework with native support for GPT models.
 
 By implementing the Query-Key/Output-Value (QK/OV) attribution architecture and Pareto-language command protocols, this framework delivers mechanistic transparency previously unavailable in production environments.
 
