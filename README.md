@@ -269,7 +269,7 @@ Contributions that extend the interpretability framework are welcome. See our [c
 
 ## License
 
-MIT License
+PolyForm License
 
 ---
 
