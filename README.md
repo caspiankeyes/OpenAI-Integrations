@@ -16,7 +16,7 @@
 
 ## Overview
 
-OpenAI-Integrations provides an enterprise-grade interpretability framework that extends OpenAI's large language models with recursive attribution mapping, symbolic failure tracing, and context-aware transparency tools. This repository implements the Caspian Interpretability Framework with native support for GPT models.
+OpenAI-Integrations provides an enterprise-grade interpretability framework that extends OpenAI's large language models with recursive attribution mapping, symbolic failure tracing, and context-aware transparency tools. This repository implements the Echelon Labs Interpretability Framework with native support for GPT models.
 
 By implementing the Query-Key/Output-Value (QK/OV) attribution architecture and Pareto-language command protocols, this framework delivers mechanistic transparency previously unavailable in production environments.
 
@@ -84,7 +84,7 @@ trace = response.attribution_paths
 
 ### Interpretability Shells
 
-Inspired by the recursive diagnostic shells in the Caspian Framework, these components provide targeted analysis of specific model behaviors:
+Inspired by the recursive diagnostic shells in the Echelon Labs Framework, these components provide targeted analysis of specific model behaviors:
 
 - **v01 MEMTRACE**: Memory drift detection
 - **v03 LAYER-SALIENCE**: Attention salience collapse
@@ -274,6 +274,6 @@ PolyForm License
 ---
 
 <p align="center">
-<strong>Caspian Interpretability Framework</strong><br>
+<strong>Echelon Labs Interpretability Framework</strong><br>
 Advanced Transformer Transparency
 </p>
