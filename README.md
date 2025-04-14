@@ -1,6 +1,7 @@
 <div align="center">
 
-# OpenAI-Integrations: Advanced Interpretability Infrastructure
+# OpenAI-Integrations
+# Advanced Interpretability Infrastructure
 
 *`Recursive Transparency for Next-Generation Transformer Systems`*
 
