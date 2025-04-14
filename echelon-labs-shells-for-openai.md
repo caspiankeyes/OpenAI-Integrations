@@ -2,6 +2,8 @@
 
 **Advanced Interpretability Shells for GPT Architectures**
 
+![op-modified-modified](https://github.com/user-attachments/assets/80dfdf10-006d-4fd5-897b-41aba3eeb523)
+
 ## Overview
 
 This document provides the technical specification for integrating Echelon Labs' interpretability shells with OpenAI's transformer models. By mapping these diagnostic shells to the GPT architecture, we enable mechanistic transparency of model reasoning, attribution tracing, and failure analysis at scale.
