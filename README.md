@@ -263,12 +263,6 @@ For AI safety researchers, this framework enables:
 - **Alignment Research**: Attribution-based measurement of value adherence
 - **Constitutional Enforcement**: Verification of safety guardrails
 
-## Community & Support
-
-- **Documentation**: [openai-integrations.caspian-labs.dev](https://openai-integrations.caspian-labs.dev)
-- **Discord**: [discord.gg/caspian-labs](https://discord.gg/caspian-labs)
-- **Issues**: [github.com/caspian-labs/openai-integrations/issues](https://github.com/caspian-labs/openai-integrations/issues)
-
 ## Contributing
 
 Contributions that extend the interpretability framework are welcome. See our [contribution guidelines](CONTRIBUTING.md) for more information.
