@@ -1,6 +1,6 @@
 # OpenAI ↔ QKOV Bridge Module 🌉
 
-The `OpenAI-QKOV-Bridge` provides seamless interoperability between OpenAI's attention mechanisms and Caspian's Query-Key/Output-Value (QKOV) attribution architecture. This module enables OpenAI models (GPT-4, GPT-4-Turbo, GPT-3.5-Turbo) to operate natively with Caspian's interpretability framework, including Pareto-lang command protocols and symbolic failure tracing.
+The `OpenAI-QKOV-Bridge` provides seamless interoperability between OpenAI's attention mechanisms and Anthropic's Query-Key/Output-Value (QKOV) attribution architecture. This module enables OpenAI models (GPT-4, GPT-4-Turbo, GPT-3.5-Turbo) to operate natively with Caspian's interpretability framework, including Pareto-lang command protocols and symbolic failure tracing.
 
 ## Why QKOV Matters for OpenAI Models 🧠
 
