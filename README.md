@@ -2,10 +2,10 @@
 
 # OpenAI-Integrations: Advanced Interpretability Framework
 
-*Recursive Transparency for Next-Generation Transformer Systems*
+*`Recursive Transparency for Next-Generation Transformer Systems`*
 
 
-![openai](https://github.com/user-attachments/assets/9b3310f4-fbcc-4825-addc-52a5d10129bb)
+![openai-modified(1)](https://github.com/user-attachments/assets/dc60cbe3-202a-40d1-8541-64b2e3ecd299)
 
 ![pareto-lang-internal-modified](https://github.com/user-attachments/assets/2cd96cc9-1ad2-4579-8393-266e634272ff)
 
