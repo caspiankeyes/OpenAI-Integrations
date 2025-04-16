@@ -9,13 +9,12 @@
 [![Python: 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow: 2.15+](https://img.shields.io/badge/tensorflow-2.15+-orange.svg)](https://www.tensorflow.org/)
 [![JAX: 0.4.20+](https://img.shields.io/badge/jax-0.4.20+-green.svg)](https://github.com/google/jax)
-![op-modified-modified](https://github.com/user-attachments/assets/80dfdf10-006d-4fd5-897b-41aba3eeb523)
 > **Internal Document: Anthropic Alignment & Interpretability Team**  
 > **Classification: Technical Reference Documentation**  
 > **Version: 0.9.3-alpha**  
 > **Last Updated: 2025-04-16**
->
 > 
+![op-modified-modified](https://github.com/user-attachments/assets/80dfdf10-006d-4fd5-897b-41aba3eeb523)
 ![pareto-lang-internal-modified](https://github.com/user-attachments/assets/2cd96cc9-1ad2-4579-8393-266e634272ff)
 
 
